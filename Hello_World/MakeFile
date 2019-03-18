@@ -1,0 +1,4 @@
+helloworld: helloworld.cc
+
+	g++ -o helloworld helloworld.cc
+
